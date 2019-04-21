@@ -1,0 +1,948 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5cb07a8-7b47-47e5-aad2-249364e08f9a" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Maven_Automation$_Users_sakibahmad_IdeaProjects_Maven_Automation_src_test_java_Abstract_ClassesActionItem_CrossBrowser_xml.ic" NAME="$PROJECT_DIR$/src/test/java/Abstract_ClassesActionItem/CrossBrowser.xml Coverage Results" MODIFIED="1555166763332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" openResultsInEditor="true" userTempatePath="" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Reusable_Classes/Reusable_Methods_Loggers_POM.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1539">
+              <caret line="95" selection-start-line="95" selection-end-line="95" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Reusable_Classes/Reusable_Methods_Loggers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-470">
+              <caret line="131" column="22" selection-start-line="131" selection-start-column="22" selection-end-line="131" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1140">
+              <caret line="60" column="21" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Google_Cucumber/Google">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Google_Cucumber/Google_Cucumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Google_Cucumber/Google_TestRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/PageObjectClasses/Yahoo_Page_Object/Yahoo_HomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="27" column="56" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/PageObjectClasses/Yahoo_Page_Object/Yahoo_Base_Class.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Abstract_ClassesActionItem/EXPRESS.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Reusable_Classes/Reusable_Methods.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="617">
+              <caret line="129" lean-forward="true" selection-start-line="129" selection-end-line="129" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>exp</find>
+      <find>yahoo</find>
+      <find>test</find>
+      <find>scenario</find>
+      <find>if</find>
+      <find>short</find>
+      <find>shortUUID</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Downloads/WW_ActionItem.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Day09_03312019/ActionItem_Sumons.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Day09_03312019/yahoo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Practice/USPS.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Reusable_Classes/Reusable_Methods.java" />
+        <option value="$PROJECT_DIR$/src/test/java/actionItems/macysActionItem.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Day10_04062019/Class_ActionItem.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Day11_04072019/macysActionItem.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Day11_04072019/Express_Action_Item_Loggers.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Abstract_Test_Classes/ActionItem_6_TryCatch.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Abstract_Test_Classes/Express_Action_Item_Loggers.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Abstract_Test_Classes/smoke_test.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/Day09_03312019/ActionItem_6_TryCatch.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Abstract_ClassesActionItem/ActionItem_5_Review.java" />
+        <option value="$PROJECT_DIR$/src/main/Report_Folder/AutomationReport.html1hr5v38e6plx0.html" />
+        <option value="$PROJECT_DIR$/src/test/java/Abstract_ClassesActionItem/Test.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/Abstract_ClassesActionItem/CrossBrowser.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/Abstract_ClassesActionItem/EXPRESS.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Abstract_ClassesActionItem/MLCALC.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Abstract_ClassesActionItem/WEIGHTWATCHERS.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Abstract_ClassesActionItem/GOOGLE.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Google_Cucumber/Google.feature" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/Google_Cucumber/Google_TestRunner.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Google_Cucumber/Google" />
+        <option value="$PROJECT_DIR$/src/test/java/Google_Cucumber/Google_Cucumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Reusable_Classes/Abstract_Class.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Practice/Practice2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Yahoo_Page_Object/Yahoo_Base_Class.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Abstract_ClassesActionItem/YAHOO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PageObjectClasses/Yahoo_Page_Object/Yahoo_SearchResultPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PageObjectClasses/Yahoo_Page_Object/Yahoo_Base_Class.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Reusable_Classes/Reusable_Methods_Loggers_POM.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PageObjectClasses/Yahoo_Page_Object/Yahoo_HomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Yahoo_POM_TestScenarios/TC91_YahooSearchResult.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Yahoo_POM_TestScenarios/Test1.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Reusable_Classes/Reusable_Methods_Loggers.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="810" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <showExcludedFiles Scope="true" ProjectPane="true" />
+      <hideEmptyPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Maven_Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Maven_Automation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Maven_Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Maven_Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Maven_Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Maven_Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Maven_Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Maven_Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Maven_Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Maven_Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="PageObjectClasses" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Maven_Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Maven_Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="PageObjectClasses" type="462c0819:PsiDirectoryNode" />
+              <item name="Yahoo_Page_Object" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Maven_Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Maven_Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Reusable_Classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Maven_Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Maven_Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Maven_Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Maven_Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Maven_Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Maven_Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Abstract_ClassesActionItem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Maven_Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Maven_Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Google_Cucumber" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Maven_Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Maven_Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Maven_Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Maven_Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Yahoo_POM_TestScenarios" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Maven_Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555821397718" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Gherkin" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/Yahoo_POM_TestScenarios" />
+      <recent name="$PROJECT_DIR$/src/test/java/Google_Cucumber" />
+      <recent name="$PROJECT_DIR$/src/test/java/Abstract_ClassesActionItem" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Reusable_Classes" />
+      <recent name="Abstract_ClassesActionItem" />
+      <recent name="Abstract_Test_Classes" />
+      <recent name="Day11_04072019" />
+      <recent name="Day09_03312019" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/sakibahmad/IdeaProjects/Maven_Automation/src/test/java/Yahoo_POM_TestScenarios/Test1.xml">
+    <configuration name="Google_TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Maven_Automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Google_Cucumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Google_Cucumber" />
+      <option name="MAIN_CLASS_NAME" value="Google_Cucumber.Google_TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ActionItem_Sumons.testScenario" type="TestNG" nameIsGenerated="true">
+      <module name="Maven_Automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day09_03312019.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Day09_03312019" />
+      <option name="MAIN_CLASS_NAME" value="Day09_03312019.ActionItem_Sumons" />
+      <option name="METHOD_NAME" value="testScenario" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Class_ActionItem.testScenario" type="TestNG" nameIsGenerated="true" show_console_on_std_err="true" show_console_on_std_out="true">
+      <module name="Maven_Automation" />
+      <extension name="coverage" track_test_folders="true">
+        <pattern>
+          <option name="PATTERN" value="Day10_04062019.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="Day10_04062019" />
+      <option name="MAIN_CLASS_NAME" value="Day10_04062019.Class_ActionItem" />
+      <option name="METHOD_NAME" value="testScenario" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practice2.testExecution" type="TestNG" temporary="true" nameIsGenerated="true" show_console_on_std_err="true" show_console_on_std_out="true">
+      <module name="Maven_Automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="Practice" />
+      <option name="MAIN_CLASS_NAME" value="Practice.Practice2" />
+      <option name="METHOD_NAME" value="testExecution" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC91_YahooSearchResult" type="TestNG" temporary="true" nameIsGenerated="true" show_console_on_std_err="true" show_console_on_std_out="true">
+      <module name="Maven_Automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Yahoo_POM_TestScenarios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="Yahoo_POM_TestScenarios" />
+      <option name="MAIN_CLASS_NAME" value="Yahoo_POM_TestScenarios.TC91_YahooSearchResult" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/sakibahmad/IdeaProjects/Maven_Automation/src/test/java/Abstract_ClassesActionItem/CrossBrowser.xml" type="TestNG" temporary="true" nameIsGenerated="true" show_console_on_std_err="true" show_console_on_std_out="true">
+      <module name="Maven_Automation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/Abstract_ClassesActionItem/CrossBrowser.xml" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/sakibahmad/IdeaProjects/Maven_Automation/src/test/java/Yahoo_POM_TestScenarios/Test1.xml" type="TestNG" temporary="true" nameIsGenerated="true" show_console_on_std_err="true" show_console_on_std_out="true">
+      <module name="Maven_Automation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/Yahoo_POM_TestScenarios/Test1.xml" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" show_console_on_std_err="true" show_console_on_std_out="true">
+      <option name="SUITE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.Google_TestRunner" />
+      <item itemvalue="TestNG.ActionItem_Sumons.testScenario" />
+      <item itemvalue="TestNG.Class_ActionItem.testScenario" />
+      <item itemvalue="TestNG.Practice2.testExecution" />
+      <item itemvalue="TestNG.TC91_YahooSearchResult" />
+      <item itemvalue="TestNG./Users/sakibahmad/IdeaProjects/Maven_Automation/src/test/java/Abstract_ClassesActionItem/CrossBrowser.xml" />
+      <item itemvalue="TestNG./Users/sakibahmad/IdeaProjects/Maven_Automation/src/test/java/Yahoo_POM_TestScenarios/Test1.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/sakibahmad/IdeaProjects/Maven_Automation/src/test/java/Yahoo_POM_TestScenarios/Test1.xml" />
+        <item itemvalue="TestNG.TC91_YahooSearchResult" />
+        <item itemvalue="TestNG.Practice2.testExecution" />
+        <item itemvalue="JUnit.Google_TestRunner" />
+        <item itemvalue="TestNG./Users/sakibahmad/IdeaProjects/Maven_Automation/src/test/java/Abstract_ClassesActionItem/CrossBrowser.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5cb07a8-7b47-47e5-aad2-249364e08f9a" name="Default Changelist" comment="" />
+      <created>1554042221553</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554042221553</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Practice2_testExecution - 2019.04.13 at 23h 00m 04s.xml">
+      <configuration name="Practice2.testExecution" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Practice2_testExecution - 2019.04.13 at 23h 00m 20s.xml">
+      <configuration name="Practice2.testExecution" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Practice2_testExecution - 2019.04.13 at 23h 00m 49s.xml">
+      <configuration name="Practice2.testExecution" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Practice2_testExecution - 2019.04.13 at 23h 01m 29s.xml">
+      <configuration name="Practice2.testExecution" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Practice2_testExecution - 2019.04.13 at 23h 02m 43s.xml">
+      <configuration name="Practice2.testExecution" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Practice2_testExecution - 2019.04.13 at 23h 03m 12s.xml">
+      <configuration name="Practice2.testExecution" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Practice2_testExecution - 2019.04.13 at 23h 06m 21s.xml">
+      <configuration name="Practice2.testExecution" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Practice2_testExecution - 2019.04.13 at 23h 06m 56s.xml">
+      <configuration name="Practice2.testExecution" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TC91_YahooSearchResult - 2019.04.14 at 12h 22m 51s.xml">
+      <configuration name="TC91_YahooSearchResult" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_sakibahmad_IdeaProjects_Maven_Automation_src_test_java_Yahoo_POM_TestScenarios_Test1_xml - 2019.04.14 at 12h 25m 57s.xml">
+      <configuration name="/Users/sakibahmad/IdeaProjects/Maven_Automation/src/test/java/Yahoo_POM_TestScenarios/Test1.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="810" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3104435" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32916668" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32777777" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32777777" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.3297568" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/Report_Folder/AutomationReport.htmlsohbp4b3qmhx.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/Report_Folder/AutomationReport.htmlqdytbhy1lbaa.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/Report_Folder/AutomationReport.htmlr1lohvjjnqlg.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Report_Folder/AutomationReport.html1jy5gvxmhcc4m.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Report_Folder/AutomationReport.html1iepz9ya1w10x.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Report_Folder/AutomationReport.html1ievhnokc292c.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Report_Folder/AutomationReport.htmlsl0o63ccrcc3.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Report_Folder/AutomationReport.htmlt4neoxe03b6q.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Report_Folder/AutomationReport.htmlus2zjeziuo9v.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Report_Folder/Express_Checkout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1368">
+          <caret line="72" column="72" selection-start-line="72" selection-start-column="72" selection-end-line="72" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Abstract_Test_Classes/smoke_test.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Report_Folder/AutomationReport1ibjuitwbahbr.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Report_Folder/AutomationReport.htmltog5kpf8gu9e.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Report_Folder/AutomationReportqhl2ncrthc8o.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Report_Folder/AutomationReportr1cue64cbk8l.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Report_Folder/AutomationReport1iauvdcg0whm9.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Report_Folder/AutomationReport1h7lxwwokcztw.html" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/Google_Cucumber/Google.feature.kt" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/Google_Cucumber/Google.feature" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.feature">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Maven_Automation.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Abstract_ClassesActionItem/GOOGLE.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="38" column="88" selection-start-line="38" selection-start-column="80" selection-end-line="38" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Abstract_ClassesActionItem/MLCALC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Practice/USPS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Day10_04062019/Class_ActionItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="92" selection-start-line="92" selection-end-line="92" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Practice/Practice2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Report_Folder/AutomationReports1b35xoxkpr5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Abstract_ClassesActionItem/WEIGHTWATCHERS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Day11_04072019/Express_Action_Item_Loggers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1826">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Report_Folder1hv8b3awqwawp.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Yahoo_Page_Object/Yahoo_Base_Class.java" />
+    <entry file="file://$PROJECT_DIR$/Test Results - Google_TestRunner.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Abstract_ClassesActionItem/YAHOO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="43" column="28" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Yahoo_POM_TestScenarios/Test.xml" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/SuiteRunnerWorker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PageObjectClasses/Yahoo_Page_Object/Yahoo_SearchResultPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Abstract_ClassesActionItem/Test.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Abstract_ClassesActionItem/CrossBrowser.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="47" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Reusable_Classes/Abstract_Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Yahoo_POM_TestScenarios/TC91_YahooSearchResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Yahoo_POM_TestScenarios/Test1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Abstract_ClassesActionItem/EXPRESS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Reusable_Classes/Reusable_Methods_Loggers_POM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1539">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="60" column="21" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Google_Cucumber/Google">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Google_Cucumber/Google_TestRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Google_Cucumber/Google_Cucumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Reusable_Classes/Reusable_Methods_Loggers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-470">
+          <caret line="131" column="22" selection-start-line="131" selection-start-column="22" selection-end-line="131" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PageObjectClasses/Yahoo_Page_Object/Yahoo_HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="27" column="56" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PageObjectClasses/Yahoo_Page_Object/Yahoo_Base_Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Reusable_Classes/Reusable_Methods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="617">
+          <caret line="129" lean-forward="true" selection-start-line="129" selection-end-line="129" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Maven_Automation</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.beust:jcommander:1.72</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

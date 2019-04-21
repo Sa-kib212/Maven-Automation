@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default Suite]">
+  <test thread-count="5" name="Maven_Automation(failed)">
+    <classes>
+      <class name="Day10_04062019.Class_ActionItem">
+        <methods>
+          <include name="testScenario"/>
+          <include name="openbrowser"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- Day10_04062019.Class_ActionItem -->
+    </classes>
+  </test> <!-- Maven_Automation(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->

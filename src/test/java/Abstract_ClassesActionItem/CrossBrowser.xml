@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Automation Suite" parallel="none">
+
+    <test name="Chrome Test">
+        <parameter name="browser" value="Chrome"/>
+        <classes>
+            <class name="Abstract_ClassesActionItem.GOOGLE" />
+            <class name="Abstract_ClassesActionItem.MLCALC" />
+            <class name="Abstract_ClassesActionItem.WEIGHTWATCHERS" />
+            <class name="Abstract_ClassesActionItem.YAHOO" />
+        </classes>
+    </test>
+    <test name="FireFox Test">
+        <parameter name="browser" value="Firefox"/>
+        <classes>
+            <class name="Abstract_ClassesActionItem.GOOGLE" />
+            <class name="Abstract_ClassesActionItem.MLCALC" />
+            <class name="Abstract_ClassesActionItem.WEIGHTWATCHERS" />
+            <class name="Abstract_ClassesActionItem.YAHOO" />
+        </classes>
+    </test>
+
+</suite>

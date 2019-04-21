@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="TestSuite" parallel="none">
+
+    <test name="test1">
+        <classes>
+            <class name="Abstract_Test_Classes.ActionItem_6_TryCatch" />
+            <class name="Abstract_Test_Classes.Express_Action_Item_Loggers">
+
+            </class>
+        </classes>
+    </test>
+
+</suite>
